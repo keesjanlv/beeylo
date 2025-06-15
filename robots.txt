@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dazzled-sheets-332862.framer.app/sitemap.xml
