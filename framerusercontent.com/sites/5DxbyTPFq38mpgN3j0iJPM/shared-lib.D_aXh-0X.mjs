@@ -1,0 +1,2 @@
+import{__esmMin as e}from"./rolldown-runtime.BG0EYyAw.mjs";function t(e,t){return{description:`Beeylo`,favicon:`https://framerusercontent.com/assets/3FRX1izUpgCiEyGAm8uamUVyjGQ.png`,robots:`max-image-preview:large`,socialImage:`https://framerusercontent.com/assets/scHhJNZDN61j95sL8zg00DSNU.png`,title:`Beeylo`}}var n=e(()=>{});export{n as init_siteMetadata,t as metadata};
+//# sourceMappingURL=shared-lib.D_aXh-0X.mjs.map
