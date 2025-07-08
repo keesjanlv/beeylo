@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://magnificent-words-788600.framer.app/sitemap.xml
